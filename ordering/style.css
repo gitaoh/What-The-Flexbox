@@ -213,3 +213,15 @@ input::-moz-focus-inner {
 .box5 {
 	order: 2;
 }
+
+.container {
+	flex: 1;
+	order: 1;
+}
+
+.box2 {
+	order: 4;
+}
+.box7 {
+	order: -7;
+}
